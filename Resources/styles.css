@@ -44,3 +44,9 @@ html, body{
   font-family: "Comic Sans", sans-serif;
   background-color: crimson;
 }
+
+.copyright{
+  color: white;
+  font-family: "Comic Sans", sans-serif;
+  font-size: 10px;
+}
